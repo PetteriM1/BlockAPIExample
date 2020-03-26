@@ -1,0 +1,6 @@
+name: BlockAPIExample
+main: me.petterim1.blockapiexample.Main
+version: "${pom.version}"
+api: ["1.0.9"]
+author: PetteriM1
+depend: ["BlockAPI"]
