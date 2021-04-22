@@ -48,7 +48,7 @@
             <artifactId>BlockAPI</artifactId>
             <version>1.0</version>
             <scope>system</scope>
-            <systemPath>${basedir}/BlockAPI-1.0.jar</systemPath>
+            <systemPath>${basedir}/BlockAPI-1.0.1.jar</systemPath>
         </dependency>
     </dependencies>
     <properties>
